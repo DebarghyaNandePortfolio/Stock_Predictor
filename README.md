@@ -1,0 +1,1 @@
+Developed a machine learning model to forecast stock prices using historical data. Achieved 83.13% accuracy on the TCS dataset and strong R² scores for INFY and HCL, demonstrating effective pattern detection and reliable predictive performance.
